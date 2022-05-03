@@ -1,4 +1,4 @@
-package com.company;
+package com.company.BT;
 import java.util.*;
 
 class BinaryNode
